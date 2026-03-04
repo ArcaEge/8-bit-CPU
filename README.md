@@ -1,5 +1,8 @@
 # 8-bit CPU
 
+> [!NOTE]
+> I'm restarting the design in favour of a better one over in [this](https://github.com/ArcaEge/breadboard-cpu) repo
+
 A custom 8-bit CPU architecture designed in Logisim, aimed at (mostly) having feature parity with the 6502. It has a 16-bit address bus and I've allocated the first 32KiB to ROM, 16KiB to RAM and 16KiB to I/O.
 ## Architecture
 ### Memory map
